@@ -1,0 +1,5 @@
+To run the graphic.c enter the following command in your linux system
+vim graphic.c
+gcc graphic.c -o graphic -lgraph
+./graphic 
+to execute the c file
